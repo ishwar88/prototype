@@ -14,7 +14,7 @@ namespace prototype
             int closeVal = 4;
             int arrayVal = 0;
 
-            string stockInfoGSPC = File.ReadAllText(@"C:\S-P\^GSPC.TXT");
+            string stockInfoGSPC = File.ReadAllText("./S-P/^GSPC.TXT");
             var stockArrayGSPC = stockInfoGSPC.Split((string[])null, StringSplitOptions.RemoveEmptyEntries);
 
             float[] GSPC = new float[(stockArrayGSPC.Length+1)/6];
