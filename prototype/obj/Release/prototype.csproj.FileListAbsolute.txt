@@ -1,0 +1,5 @@
+c:\users\daren\documents\visual studio 2015\Projects\prototype\prototype\bin\Release\prototype.exe.config
+c:\users\daren\documents\visual studio 2015\Projects\prototype\prototype\bin\Release\prototype.exe
+c:\users\daren\documents\visual studio 2015\Projects\prototype\prototype\bin\Release\prototype.pdb
+c:\users\daren\documents\visual studio 2015\Projects\prototype\prototype\obj\Release\prototype.exe
+c:\users\daren\documents\visual studio 2015\Projects\prototype\prototype\obj\Release\prototype.pdb
