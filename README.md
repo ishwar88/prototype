@@ -1,3 +1,3 @@
 # prototype
-This is a prototype.
+Regression Stock Predictions.
 Created by Daren Liang and Ishwar Desai
